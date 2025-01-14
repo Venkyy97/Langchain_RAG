@@ -48,5 +48,4 @@ A sophisticated document retrieval and question-answering system built with Lang
 
 This project demonstrates advanced RAG implementation with focus on response quality and accuracy through multi-stage verification and grading systems.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33258223/25092945-2370-4a09-bce5-50f5bb090dcf/Langchain-RAG.ipynb
+
